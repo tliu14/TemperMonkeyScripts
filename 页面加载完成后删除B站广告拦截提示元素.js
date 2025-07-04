@@ -4,7 +4,7 @@
 // @version      0.6
 // @description  页面加载完成后删除B站广告拦截提示元素
 // @author       Your name
-// @match        *://*.bilibili.com/video/*
+// @match        *://*.bilibili.com/*
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
